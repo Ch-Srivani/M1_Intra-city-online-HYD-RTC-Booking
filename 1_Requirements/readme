@@ -1,1 +1,19 @@
-
+# MiniProject
+* Individual
+C Programming
+* To aplly the learning
+# What it must contain
+Folder structure must be as per https://github.com/stepin654321/MiniProject Template/tree/master/MiniProject©
+100 lines of Code, Excluding printf and scanf
+* Functions
+* Pointers
+* Unit testing
+* Multifile Programming( .c files, .h files and/or Library files)
+* Makefile based compilation for Windows and Linux
+* Code Documentation - Doxygen
+* System Developemnt Life Cycle
+* Requirements
+what:
+This is an online busticket booking system for the intra city.
+why :
+This helps many to book ticket through online where any one can easily login through their mobile phones and easily
