@@ -1,19 +1,20 @@
 # MiniProject
 * Individual
 C Programming
-* To aplly the learning
-# What it must contain
-Folder structure must be as per https://github.com/stepin654321/MiniProject Template/tree/master/MiniProject©
-100 lines of Code, Excluding printf and scanf
-* Functions
-* Pointers
-* Unit testing
-* Multifile Programming( .c files, .h files and/or Library files)
-* Makefile based compilation for Windows and Linux
-* Code Documentation - Doxygen
-* System Developemnt Life Cycle
 * Requirements
 what:
 This is an online busticket booking system for the intra city.
 why :
-This helps many to book ticket through online where any one can easily login through their mobile phones and easily
+This helps many to book ticket through online where any one can easily login through their mobile phones and easily book tickets.
+This also makes an ontime journey which helps nowadays.
+when:
+This takes around 4 weeks time to implement.
+By the first week I have a plan or idea which come up to do this project.
+In the second week I will start building the project and completes by the end of third week.
+And after the completion of code construction I perform the tesing where an output is recorded.
+who:
+This acts like a mediator between two user.
+the first user is the public who login through the app.
+and the end user is the RTC management in which they will be receiving the order which means the ticket booking.
+how:
+I am going to implement this with the help of software called Dev-c IDE to construct the code and also Virtual studio Code to check the program executing in multiplatforms.
